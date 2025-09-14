@@ -1,0 +1,5 @@
+i entered the terminal and typed
+$ curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.7/install.sh | bash
+i waited for it to install and then exited using the exit command then reentered and after installing node, i entered
+  npm install sass -v 3.7.4
+  then aited for it to complete
